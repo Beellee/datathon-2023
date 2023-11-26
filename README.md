@@ -1,7 +1,7 @@
 # Daily Sales Datathon
 
 ## Overview
-This repository contains the code that my team and I created for the Novartis 2023 Daily Sales Datathon. The challenge was to predict the daily sales patterns for different brands in various countries throughout 2022, using historical data from 2013 to 2021.
+This repository contains the code that my team and I created for the [Novartis 2023 Daily Sales Datathon](https://godatathon.com/challenge/). The challenge was to predict the daily sales patterns for different brands in various countries throughout 2022, using historical data from 2013 to 2021.
 
 ## Problem Description
 Our main goal was to break down monthly sales into daily patterns, considering the unique sales behaviors in different countries and for different brands. The dataset provided includes daily-level details for Novartis brands, covering various features like identifiers, calendar-related information, business-related details, and target/auxiliary variables.
